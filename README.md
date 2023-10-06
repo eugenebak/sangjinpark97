@@ -1,13 +1,12 @@
 ### Hi there 👋
-
+<!--
 <a href="https://www.linkedin.com/in/san9569/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://www.instagram.com/baksangjin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-<!--
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
--->
-![Sangjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjinpark97&show_icons=true&theme=radical)
 
+![Sangjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangjinpark97&show_icons=true&theme=radical)
+-->
 <!--
 **sangjinbak/sangjinbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
